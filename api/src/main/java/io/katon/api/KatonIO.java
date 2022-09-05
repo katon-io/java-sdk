@@ -4,9 +4,8 @@ package io.katon.api;
  * Hello world!
  *
  */
-public class KatonIO 
-{
-    /**
+public class KatonIO {
+  /**
    * Create a new instance of KatonPublicCtx.
    * Public contexts allow read interactions with Katon.io APIs.
    * @param project - Identifier of the Katon.io project.
@@ -14,9 +13,9 @@ public class KatonIO
    * @param options - KatonCtxOptions.
    * @returns - New instance of KatonPublicCtx.
    */
-  public static publicCtx(
+  public static void publicCtx(
     String project,
-    String publicKey,
+    String publicKey
   ) {
     
   }
