@@ -1,7 +1,7 @@
 # TODOs
 
 ## Features
-- [ ] Implement base structure.
+- [x] Implement base structure.
 - [ ] Implement Get, Post, Put, Patch, Delete helpers.
 - [ ] Implement Account Wrapper.
 - [ ] Implement Coin Wrapper.
